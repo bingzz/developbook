@@ -1,22 +1,29 @@
-##### 
 
 #### swift中使用markdown
 
-editor-show rendered markup
+    editor-show rendered markup
+    代码中/\*:  ...  \*/
+    
+#### webview中链接编码问题
 
-代码中/\*:  ...  \*/
+ - javascript encodeURI() <=>  stringByAddingPercent 
+   用于整个uri的编码
+   
+         http://www.oschina.net/search?scope=bbs&q=C语言
+         ->http://www.oschina.net/search?scope=bbs&q=C%E8%AF%AD%E8%A8%80 
+         
+ - js: encodeURIComponents() 
+   用于参数拼接url编码  
+   
+        http://www.oschina.net/search?scope=bbs&q=C语言
+        ->http%3A%2F%2Fwww.oschina.net%2Fsearch%3Fscope%3Dbbs%26q%3DC%E8%AF%AD%E8%A8%80
+        
+以上两种编码 都可以通过`stringByRemovingPercentEncoding`解码
 
 
 
-#### webview中连接编码问题
 
-&lt;/a&gt;会自动编码\(if need\)，需要注意的是 与h5使用的URL编码不同
 
-http://www.zmjiudian.com/show/Find?userid={userid}&\_newpage=1
-
-* http://www.zmjiudian.com/show/Find?userid=%7Buserid%7D&\_newpage=1
-
-* http%3a%2f%2fwww.zmjiudian.com%2fshow%2fFind%3fuserid%3d%7buserid%7d%26\_newpage%3d1
 
 
 
