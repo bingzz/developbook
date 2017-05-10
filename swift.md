@@ -14,4 +14,6 @@
 
     都可用来表示类方法（静态方法），
     
+4. protocol & delegate
     
+    protocol可扩展、集成，
