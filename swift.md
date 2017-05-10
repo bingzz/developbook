@@ -1,3 +1,9 @@
+0. swift常用库
+    
+    - Alamofire,SwiftyJSON,Moya,HandyJSON,Kingfisher
+    - RxSwift,IQKeyboardManagerSwift,SQLite.swift
+    - SnapKit
+
 1. 重载运算符[参考](http://www.cocoachina.com/swift/20150204/11091.html)
     
     - 为什么要重载：
