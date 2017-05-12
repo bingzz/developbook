@@ -11,10 +11,14 @@
     - 重载现有运算符
         - 
     - 设置优先级
-    
-        
-        
-3. fileprivate VS private
+            
+3. swift访问控制：private fileprivate internal(缺省) public open
+
+    - private: 当前类
+    - fileprivate: 当前.swift文件
+    - internal: 源代码所在的整个整个模块、整个app代码内部、整个框架内部
+    - public: 可以被所有人访问，但是不同的module不可以被override/inherit
+    - open: 可以被所有人访问，可以被重载和集成。
     
 4. class VS static
 
