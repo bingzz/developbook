@@ -25,7 +25,7 @@
     protocol可扩展、集成，
     协议扩展
 
-5.struct VS Class
+    5.struct VS Class
 
     struct: Value type
     class: reference type
