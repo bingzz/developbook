@@ -13,3 +13,14 @@
 
 4. 一个小坑：
    weex init的一个项目，在npm run dev在web端进行调试的时候，发现没有内容，发现是官方给的demo，在html的js资源引用路径有错。
+
+5. weex POST请求，需要设置content-Type才能拿到数据 /冷汗
+
+   设置请求头：
+   
+       headers:{   
+            "Content-Type": 'application/x-www-form-urlencoded',              
+         }
+
+   
+   
