@@ -21,6 +21,9 @@
 以上两种编码 都可以通过`stringByRemovingPercentEncoding`解码
 
 
+#### app中使用safari -- SFSafariViewControllerDelegate
+
+  
 
 
 
