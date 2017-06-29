@@ -23,4 +23,11 @@
          }
 
    
+6. 一个小坑
    
+         weex create
+         weex platform add ios/android
+         写完页面后 web和iOS都显示正常，唯独android上显示 “render error:-2013”//各种查没有结果。。。
+         
+   后来把页面的.vue文件 放到了 !(https://github.com/ElemeFE/weex-vue-starter-kit)[dd]
+      
