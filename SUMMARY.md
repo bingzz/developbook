@@ -7,5 +7,5 @@
 * [Android](android.md)
 * [Meet Weex](meet-weex.md)
 * [KVO](kvo.md)
-* [About UICollectionView](about-uicollectionview.md)
+* [About UICollectionView/UITableView](about-uicollectionview.md)
 
