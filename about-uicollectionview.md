@@ -23,3 +23,6 @@
 
 实践下来发现 只有 'viewForHeaderView'返回的view只能是代码创建的 IB创建的View都会存在诡异的跳动问题。
 
+t1: 单纯return view 不采用headerview的复用机制，在iPhone4等低性能急性上上会很卡，恩本划不动。。。
+t2: 采用复用机制，继承于UITableViewHeaderFooterView，使用xib创建复杂view，会出现创建多个headerview的情况。
+t3:  
