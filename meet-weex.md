@@ -9,6 +9,8 @@
    npm run build
    npm run dev 可以开启实时调试
    
+   weex platform add ios/android
+   
 3. vue实例 相当于一个viewmodel。 可以参详一下mvvm设计模式概念。
 
 4. 一个小坑：
