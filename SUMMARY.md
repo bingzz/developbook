@@ -7,7 +7,7 @@
 * [html5](html5.md)
 * [Meet Weex](meet-weex.md)
 * [KVO](kvo.md)
-* [About UICollectionView/UITableView](about-uicollectionview.md)
+* [关于 UICollectionView/UITableView](about-uicollectionview.md)
 * [Carthage](carthage.md)
 * [关于MVVM](guan-yu-mvvm.md)
 
