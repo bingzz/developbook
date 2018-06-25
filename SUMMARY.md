@@ -10,6 +10,5 @@
 * [关于 UICollectionView/UITableView](about-uicollectionview.md)
 * [Carthage](carthage.md)
 * [关于MVVM](guan-yu-mvvm.md)
-
-## 前言
+* [记几个关于UISearchViewController的坑](ji-ji-ge-guan-yu-uisearchviewcontroller-de-keng.md)
 
