@@ -3,7 +3,6 @@
 ## DevelopBook
 
 * [Introduction](README.md)
-* [html5](html5.md)
 
 ## Android
 
