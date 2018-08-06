@@ -12,6 +12,5 @@
 
 5. viewController 只是一个中间人，接收 view 的事件、调用 viewModel 的方法、响应 viewModel 的变化；
 
-6. 
 
 
