@@ -4,9 +4,12 @@
 
 * [Introduction](README.md)
 
-## Android
+## BingAPP
 
-* [Android](android.md)
+* [About](bingapp/about.md)
+* [准备工作](bingapp/zhun-bei-gong-zuo.md)
+  * Introduction
+  * About
 
 ## iOS
 
@@ -18,4 +21,8 @@
 * [记几个关于UISearchViewController的坑](ji-ji-ge-guan-yu-uisearchviewcontroller-de-keng.md)
 * [Meet Weex](meet-weex.md)
 * [KVO](kvo.md)
+
+## Android
+
+* [Android](android.md)
 
