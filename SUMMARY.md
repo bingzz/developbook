@@ -25,6 +25,7 @@
   * [Swfit](hao-de-kai-yuan-lei-ku/swfit.md)
   * [Objective C](hao-de-kai-yuan-lei-ku/objective-c.md)
   * [其它](hao-de-kai-yuan-lei-ku/qi-ta.md)
+* [Swift Tips](swift-tips.md)
 
 ## Android
 
