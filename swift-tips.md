@@ -14,9 +14,17 @@
 
 
 
+
+
 ```
 class a {
+class let p1
+static let p2
+
 
 }
+
 ```
+
+
 
