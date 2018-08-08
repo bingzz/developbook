@@ -13,18 +13,20 @@
 
 
 
-
-
-
 ```
 class a {
+
 class let p1
 static let p2
 
+class func f1(){}
+static func f2(){}
 
 }
 
+
 ```
+
 
 
 
