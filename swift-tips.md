@@ -30,12 +30,31 @@
 they provide a getter and an optional setter to retrieve and set other properties and values indirectly
 不支持lazy修饰
 
+```swift
+    var center: Point {
+        get {
+            let centerX = origin.x + (size.width / 2)
+            let centerY = origin.y + (size.height / 2)
+            return Point(x: centerX, y: centerY)
+        }
+        set(newCenter) {
+            origin.x = newCenter.x - (size.width / 2)
+            origin.y = newCenter.y - (size.height / 2)
+        }
+    }
 
-> 存储属性：
+```
+
+>存储属性：
 var/lazy var,let(constant) ...
-可以直接设置默认值  var v: UIView = UIView()
+可以直接设置默认值  
 也可以使用闭包进行初始化 
 
+```swift
+    var v: UIView = UIView()
+
+
+```
     
     
     
