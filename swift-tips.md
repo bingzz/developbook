@@ -49,7 +49,7 @@ they provide a getter and an optional setter to retrieve and set other propertie
 > 存储属性:
 var/lazy var,let(constant) ...
 可以直接设置默认值  
-也可以使用闭包进行初始化
+也可以使用闭包进行初始化，闭包内初始化函数只会创建一次
 
 ```swift
     var v: UIView = UIView()
