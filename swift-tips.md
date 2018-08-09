@@ -11,19 +11,23 @@
 都标识类方法/属性。
 区别在于，class修饰的方法可以被子类重载
 
-``` swift
-class SomeClass {
+    ``` swift
+    class SomeClass {
 
-    class let p1
-    static let p2
+        class let p1
+        static let p2
 
-    class func f1(){}
-    static func f2(){}
+        class func f1(){}
+        static func f2(){}
 
-}
+    }
 
-```
+    ```
 
+### `computed properties` VS `stored properties`
 
+    计算属性 VS 存储属性
+    
+    
 
 
