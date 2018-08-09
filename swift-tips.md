@@ -29,6 +29,7 @@
 > 计算属性:
 they provide a getter and an optional setter to retrieve and set other properties and values indirectly
 不支持lazy修饰
+每次引用，都会执行getter方法 => 一般只是放一些计算操作，不能进行对象的创建。
 
 ```swift
     var center: Point {
@@ -49,7 +50,7 @@ they provide a getter and an optional setter to retrieve and set other propertie
 > 存储属性:
 var/lazy var,let(constant) ...
 可以直接设置默认值  
-也可以使用闭包进行初始化，闭包内初始化函数只会创建一次
+也可以使用闭包进行初始化，闭包内初始化函数只会走一次
 
 ```swift
     var v: UIView = UIView()
