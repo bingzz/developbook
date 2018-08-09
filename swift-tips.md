@@ -46,7 +46,7 @@ they provide a getter and an optional setter to retrieve and set other propertie
 ```
 
 
-> 存储属性：
+> 存储属性：s ss
 > var/lazy var,let(constant) ...
 可以直接设置默认值  
 也可以使用闭包进行初始化 
