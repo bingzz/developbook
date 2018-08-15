@@ -21,6 +21,7 @@
   * [记几个关于UISearchViewController的坑](ji-ji-ge-guan-yu-uisearchviewcontroller-de-keng.md)
   * [关于 UICollectionView/UITableView](about-uicollectionview.md)
   * [Carthage](carthage.md)
+  * [iOS内购](iosnei-gou.md)
 * [好的开源类库](hao-de-kai-yuan-lei-ku.md)
   * [Swfit](hao-de-kai-yuan-lei-ku/swfit.md)
   * [Objective C](hao-de-kai-yuan-lei-ku/objective-c.md)
