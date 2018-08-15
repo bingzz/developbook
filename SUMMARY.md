@@ -8,7 +8,7 @@
 
 * [About](bingapp/about.md)
 * [准备工作](bingapp/zhun-bei-gong-zuo.md)
-  * 原型设计
+  * [原型设计](bingapp/zhun-bei-gong-zuo/yuan-xing-she-ji.md)
 * [Developing](bingapp/developing.md)
   * [文件结构&创建基类](bingapp/developing/wen-jian-jie-678426-chuang-jian-ji-lei.md)
 
@@ -26,6 +26,7 @@
   * [Objective C](hao-de-kai-yuan-lei-ku/objective-c.md)
   * [其它](hao-de-kai-yuan-lei-ku/qi-ta.md)
 * [Swift Tips](swift-tips.md)
+  * [foo](swift-tips/foo.md)
 
 ## Android
 
