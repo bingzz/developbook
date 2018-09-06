@@ -22,9 +22,9 @@
   * [关于 UICollectionView/UITableView](about-uicollectionview.md)
   * [Carthage](carthage.md)
   * [iOS内购](iosnei-gou.md)
+* [好的开源类库](hao-de-kai-yuan-lei-ku.md)
 * [Swift Tips](swift-tips.md)
   * [foo](swift-tips/foo.md)
-* [好的开源类库](hao-de-kai-yuan-lei-ku.md)
 
 ## Android
 
