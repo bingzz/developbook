@@ -25,9 +25,6 @@
 * [Swift Tips](swift-tips.md)
   * [foo](swift-tips/foo.md)
 * [好的开源类库](hao-de-kai-yuan-lei-ku.md)
-  * [Swfit](hao-de-kai-yuan-lei-ku/swfit.md)
-  * [Objective C](hao-de-kai-yuan-lei-ku/objective-c.md)
-  * [其它](hao-de-kai-yuan-lei-ku/qi-ta.md)
 
 ## Android
 
