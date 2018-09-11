@@ -19,7 +19,7 @@
 * **Tools**
 
 * **UIs**
-  * 滑动cell [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
+  * 滑动cell [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)、[MGSwipeTableCell](https://github.com/MortimerGoro/MGSwipeTableCell)
   
   
 
