@@ -33,5 +33,3 @@
 
 * [Android](android.md)
 
-## NewPart
-
