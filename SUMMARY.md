@@ -25,6 +25,7 @@
 * [Swift Tips](swift-tips.md)
   * [foo](swift-tips/foo.md)
 * [好的开源](hao-de-kai-yuan-lei-ku.md)
+* [导航条终结篇](dao-hang-tiao-zhong-jie-pian.md)
 
 ## Android
 
