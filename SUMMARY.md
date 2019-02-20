@@ -27,8 +27,13 @@
 * [好的开源](hao-de-kai-yuan-lei-ku.md)
 * [导航条终结篇](dao-hang-tiao-zhong-jie-pian.md)
 * [Runtime编程](runtimebian-cheng.md)
+* 编译原理
 
 ## Android
 
 * [Android](android.md)
+
+## NewPart
+
+* [NewArticle](newarticle.md)
 
