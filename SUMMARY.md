@@ -35,5 +35,3 @@
 
 ## NewPart
 
-* [NewArticle](newarticle.md)
-
