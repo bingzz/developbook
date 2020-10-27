@@ -30,8 +30,13 @@
 * [导航条终结篇](ios/dao-hang-tiao-zhong-jie-pian.md)
 * [Runtime编程](ios/runtimebian-cheng.md)
 * [编译原理](ios/bian-yi-yuan-li.md)
-* [SwiftUI](ios/swiftui/README.md)
-  * [Untitled](ios/swiftui/untitled.md)
+* [初识ReactiveCocoa\(RAC\)](ios/chu-shi-reactivecocoarac.md)
+* [SwiftUI](ios/swiftui.md)
+* [组件化之路](ios/zu-jian-hua-zhi-lu/README.md)
+  * [Untitled](ios/zu-jian-hua-zhi-lu/untitled.md)
+* [APP启动优化](ios/app-qi-dong-you-hua.md)
+* [重新认识 Runloop](ios/zhong-xin-ren-shi-runloop.md)
+* [mac常用命令](ios/mac-chang-yong-ming-ling.md)
 
 ## Android
 
