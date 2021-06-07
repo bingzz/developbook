@@ -48,5 +48,23 @@
 
 ### 参考
 
-[项目大了人员多了，架构怎么设计更合理？](https://time.geekbang.org/column/article/86522) [蘑菇街 App 的组件化之路](https://limboy.me/tech/2016/03/10/mgj-components.html) [蘑菇街 App 的组件化之路\(续\)](https://limboy.me/tech/2016/03/14/mgj-components-continued.html) [bang神的iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/) [iOS应用架构谈 组件化方案](https://casatwy.com/iOS-Modulization.html) [百度App组件化之路](https://mp.weixin.qq.com/s/P-vREnrw4xGyhiugpzB-1Q) [爱奇艺视频组件化之路](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA%3D%3D&mid=2247483846&idx=1&sn=be10e857dc4415d6adb4edbe5bf04152) [有赞移动 iOS 组件化（模块化）架构设计实践](https://mp.weixin.qq.com/s/V2odpnJudpBXTtG0R3jpuw) [蘑菇街、滴滴、淘宝、微信的组件化架构解析](https://mp.weixin.qq.com/s?src=11&timestamp=1563330240&ver=1733&signature=9MiDvs0*8Bspsas3EAKcLTZJrN08g1CyNpCQcoWZaMRakq35QTIibCsmzCN6ICQrK6JmkpFW3QuRC9HAZmSYqCheemroShRuDlgGMqk-eB1vQUKV060tihMbttmZlBFT&new=1) [手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
+[项目大了人员多了，架构怎么设计更合理？](https://time.geekbang.org/column/article/86522) 
+
+[蘑菇街 App 的组件化之路](https://limboy.me/tech/2016/03/10/mgj-components.html) 
+
+[蘑菇街 App 的组件化之路\(续\)](https://limboy.me/tech/2016/03/14/mgj-components-continued.html) 
+
+[bang神的iOS 组件化方案探索](http://blog.cnbang.net/tech/3080/)
+
+ [iOS应用架构谈 组件化方案](https://casatwy.com/iOS-Modulization.html) 
+
+[百度App组件化之路](https://mp.weixin.qq.com/s/P-vREnrw4xGyhiugpzB-1Q) 
+
+[爱奇艺视频组件化之路](https://mp.weixin.qq.com/s?__biz=MzI0MjczMjM2NA%3D%3D&mid=2247483846&idx=1&sn=be10e857dc4415d6adb4edbe5bf04152) 
+
+[有赞移动 iOS 组件化（模块化）架构设计实践](https://mp.weixin.qq.com/s/V2odpnJudpBXTtG0R3jpuw)
+
+ [蘑菇街、滴滴、淘宝、微信的组件化架构解析](https://mp.weixin.qq.com/s?src=11&timestamp=1563330240&ver=1733&signature=9MiDvs0*8Bspsas3EAKcLTZJrN08g1CyNpCQcoWZaMRakq35QTIibCsmzCN6ICQrK6JmkpFW3QuRC9HAZmSYqCheemroShRuDlgGMqk-eB1vQUKV060tihMbttmZlBFT&new=1) 
+
+[手机淘宝客户端架构探索实践](https://yq.aliyun.com/articles/129)
 
