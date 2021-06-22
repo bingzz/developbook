@@ -2,9 +2,9 @@
 
 从用户点击icon到用户能够与APP内页面进行交互，大致可分为4个阶段：
 
-**阶段1: 点击icon到执行main\(\)函数前** 获取到main\(\)函数执行前，时间耗费分配情况。 ![&#x914D;&#x7F6E;&#x4E00;&#x4E0B;run&#x7684;scheme\(DYLD\_PRINT\_STATISTICS=1\)](https://upload-images.jianshu.io/upload_images/967427-c74950ff034967a4.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+**阶段1: 点击icon到执行main\(\)函数前** 获取到main\(\)函数执行前，时间耗费分配情况。 
 
-![&#x62FF;&#x5230;app&#x542F;&#x52A8;&#x65F6;&#x95F4;&#x5206;&#x914D;&#x65E5;&#x5FD7;](https://upload-images.jianshu.io/upload_images/967427-4f89979edca09bc2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+![&#x62FF;&#x5230;app&#x542F;&#x52A8;&#x65F6;&#x95F4;&#x5206;&#x914D;&#x65E5;&#x5FD7;](../.gitbook/assets/967427-c74950ff034967a4.png)
 
 > 从以上日志可以看出，pre-main阶段： **dylib loading time**: 加载动态链接库。每一个动态库有它自己的依赖关系，所以会消耗时间去查找和读取。 **rebase/binding time**: 重构和绑定，rebase会修正调整处理图像的指针，并且会设置指向绑定\(binding\)外部的图像指针。 **ObjC setup time**: 在Objective-C的运行时\(runtime\)，需要对类\(class\)，类别\(category\)进行注册，以及选择器的分配。 **initializer time**: 初始化，执行+load方法，创建静态全局变量等。
 
